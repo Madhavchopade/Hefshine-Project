@@ -17,7 +17,7 @@ public class OurTeam {
 	private int experience;
 	private String role;
 	
-	@Transient
+	
 	@Lob
     private byte[] image;
 	
